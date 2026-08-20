@@ -1,4 +1,4 @@
-package br.com.desafioBancoDIO.config;
+package br.com.desafioBancoDIO.infrastructure.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

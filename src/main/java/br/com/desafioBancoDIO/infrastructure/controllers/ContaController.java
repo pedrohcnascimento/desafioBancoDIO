@@ -1,4 +1,4 @@
-package br.com.desafioBancoDIO.presentation;
+package br.com.desafioBancoDIO.infrastructure.controllers;
 
 import br.com.desafioBancoDIO.application.dto.ContaDtos;
 import br.com.desafioBancoDIO.application.service.ContaService;
